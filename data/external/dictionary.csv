@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+total_bill,Valor total da conta,Quantitativa,Contínua
+tip,Valor da gorjeta,Quantitativa,Contínua
+sex,"Gênero do cliente pagante (Male = Masculino, Female = Feminino)",Qualitativa,Nominal
+smoker,Informa se algum cliente da mesa é fumante (Yes) ou não (No),Qualitativa,Nominal
+day,Dia da semana em que ocorreu o serviço,Qualitativa,Nominal
+time,"Horário em que ocorreu o serviço (Lunch = Almoço, Dinner = Jantar)",Qualitativa,Nominal
+size,Quantidade de pessoas na mesa (1-6),Quantitativa,Discreta
