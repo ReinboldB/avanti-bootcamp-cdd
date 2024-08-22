@@ -1,8 +1,44 @@
+<<<<<<< HEAD
 # Atividades Bootcamp Atla
+=======
+# Atividades - Bootcamp Avanti
+>>>>>>> f1b8038fdc08c716575e2b8ee1235cefbdaf2524
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+## Sobre o projeto
+
+<<<<<<< HEAD
+
+=======
+Olá! Este repositório contém uma série de exercícios que foram realizados durante o bootcamp, abordando diversos tópicos fundamentais em Data Science. Estes exercícios são projetados para ajudar a consolidar o conhecimento teórico através da prática.
+Além disso, algumas anotações realizadas em aula podem ser encontradas no [Notion](https://www.notion.so/a455e5d32e6043d1a59a5fba4c731db8?v=71119f36ea7544acacaf89568eddd8a3&pvs=4).
+
+## Linguagens e Pacotes
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+## Atividades do Repositório
+As atividades estão organizadas da seguinte forma:
+
+- **Criação de Dicionário de Dados**: Exercícios focados na criação e manipulação de dicionários de dados, fundamentais para a organização e descrição dos dados utilizados em análises.
+
+- **Estatística Descritiva**: Conjunto de exercícios que cobrem conceitos de estatística descritiva, incluindo medidas de tendência central e dispersão, para sumarizar e entender a distribuição dos dados.
+
+- **Visualização de Dados**: Exercícios práticos para criar diferentes tipos de visualizações de dados, utilizando bibliotecas como Matplotlib e Seaborn, para explorar e comunicar insights visualmente.
+
+- **Preparação e Limpeza de Dados**: Conjunto de exercícios destinados a ensinar técnicas de preparação e limpeza de dados, incluindo tratamento de valores ausentes, remoção de outliers e normalização de dados.
+
+- **Transformação de Dados**: Exercícios sobre a transformação de dados, incluindo técnicas de feature engineering e scaling, para preparar os dados para modelagem.
+
+## Conjunto de Dados 
+
+O conjunto de dados utilizado para a realização das atividades foi o [Tips](https://github.com/atlantico-academy/datasets/blob/main/tips.csv),que contém informações sobre gorjetas dadas em um restaurante!
+
+## Case em Grupo
+Além dos exercícios individuais, o bootcamp também incluiu um case em grupo, onde os participantes puderam aplicar os conhecimentos adquiridos em um projeto prático e colaborativo. O case referente ao grupo "AnalytiQueens" pode ser acessado [aqui](https://github.com/atlantico-academy/equipe3-2024.2).
 
 
+Aproveite os exercícios e bom aprendizado!
+>>>>>>> f1b8038fdc08c716575e2b8ee1235cefbdaf2524
 
 ### Organização de diretórios
 
